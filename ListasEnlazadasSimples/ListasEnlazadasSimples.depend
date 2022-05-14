@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1524595498 source:/media/labctr/STEVE/Estructura de Datos I/ListasEnlazadasSimples/main.cpp
+	<iostream>
+
+1524602792 source:f:\estructura de datos i\listasenlazadassimples\main.cpp
+	<iostream>
+
+1524765667 source:g:\estructura de datos i\listasenlazadassimples\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1524592510 source:/home/labctr/Documentos/NODOS/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1524593687 source:f:\estructura de datos i\nodos\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
